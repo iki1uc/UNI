@@ -1,0 +1,11 @@
+[UNI.language]
+version = 1.0
+type    = "universum-language"
+
+uni.language.bind = [
+  "scan.language.final",
+  "ORT.scan.final"
+]
+
+uni.language.output = "UNI.language.final"
+uni.language.state  = "active"
